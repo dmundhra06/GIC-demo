@@ -1,0 +1,2 @@
+# Auto Driving Car Simulation
+# No external dependencies required beyond the Python standard library (>=3.9).
